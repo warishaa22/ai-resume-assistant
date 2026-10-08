@@ -22,7 +22,7 @@ import streamlit as st
 # --------------------------------------------------------------------------- #
 # Configuration
 # --------------------------------------------------------------------------- #
-DEFAULT_MODEL = "gemini-3.6-flash"  # override with GEMINI_MODEL or the sidebar
+DEFAULT_MODEL = "gemini-3.5-flash"  # override with GEMINI_MODEL or the sidebar
 MAX_UPLOAD_MB = 5
 MAX_RESUME_CHARS = 15_000
 MAX_JD_CHARS = 8_000
